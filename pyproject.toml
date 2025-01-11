@@ -23,7 +23,6 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-torch = "*"
 transformers = "*"
 loguru = "*"
 pydantic = "*"
@@ -32,6 +31,9 @@ python-dotenv = "*"
 litellm = "*"
 tiktoken = "*"
 ollama = "*"
+requests = "^2.32.3"
+termcolor = "^2.5.0"
+pillow = "^11.1.0"
 
 
 

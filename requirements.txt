@@ -7,3 +7,6 @@ langchain-community=="0.0.29"
 together
 litellm
 ollama
+pillow
+requests
+termcolor
